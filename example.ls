@@ -1,5 +1,5 @@
 #!/usr/bin/env lsc
-{ URL, ImageTarget, DesktopScreenRegion, ScreenPainter, DesktopMouse } = require \sikuli-api
+{ URL, ImageTarget, DesktopScreenRegion, ScreenPainter, DesktopMouse } = require \./main.js
 
 s = new DesktopScreenRegion
 

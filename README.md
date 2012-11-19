@@ -1,7 +1,7 @@
 node-sikuli-api
 ===============
 
-Sikuli standalone API binding for Node.js.
+[Sikuli standalone API](https://code.google.com/p/sikuli-api/) binding for Node.js.
 
 # Work in Progress
 
